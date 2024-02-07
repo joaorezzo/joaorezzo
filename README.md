@@ -7,7 +7,7 @@
 • 📧 Quer entrar em contato comigo? Envie um e-mail para joaorezzoengsoft@gmail.com <br>
 • 🎲 Trabalhei como Assistente de TI, Analista de CRM Júnior e também como professor particular de matemática, física e química <br>
 <br>
-E não se esqueça de conferir o meu [linkedin](www.linkedin.com/in/joão-otávio-cardoso).
+E não se esqueça de conferir o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).
 <br>
 
 ## Sobre mim:
@@ -24,8 +24,8 @@ Olá! Meu nome é João Otávio, tenho 20 anos, sou Analista de Dados Jr. e estu
 
 • Git & Version Control
 <br>
-
-Possuo inglês avançado, latim intermediário e estou aprendendo francês.
+<br>
+Também possuo inglês avançado, com experiência de intercâmbio, latim intermediário e estou aprendendo francês.
 
 <br>
 <br>
