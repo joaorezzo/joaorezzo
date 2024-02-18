@@ -23,7 +23,7 @@ Olá! Meu nome é João Otávio, tenho 20 anos, sou Analista de Dados Jr. e estu
 
 • Excel e Google Sheets
 
-• Git & Version Control
+• Git e Version Control
 <br>
 <br>
 Também possuo **inglês avançado**, com experiência de **intercâmbio no Canadá**, latim intermediário e estou aprendendo francês.
