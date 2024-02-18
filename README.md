@@ -2,30 +2,31 @@
 <br>
 
 ## Minha experiência/estudo:
-• 🌐 Tenho aprendizado com SQL, Excel, PowerBI, Pyspark, Python e suas bibliotecas<br>
-• 📚 Estou estudando Ciência de Dados (XP Educação) <br>
-• 📧 Quer entrar em contato comigo? Envie um e-mail para joaorezzoengsoft@gmail.com <br>
-• 🎲 Trabalhei como Assistente de TI, Analista de CRM Júnior e também como professor particular de matemática, física e química <br>
+• 🌐 Tenho aprendizado com **SQL, PowerBI, Python e suas bibliotecas (Pandas, Numpy), Excel e Google Sheets**<br>
+• 📚 Estou estudando **Ciência de Dados (XP Educação)**<br>
+• 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** <br>
+• 🎲 Tenho experiência como **Assistente de TI, Analista de CRM Júnior** e também como **professor particular de exatas** (matemática, física e química)<br>
 <br>
-E não se esqueça de conferir o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).
+**Confira o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).**
 <br>
 
 ## Sobre mim:
 Olá! Meu nome é João Otávio, tenho 20 anos, sou Analista de Dados Jr. e estudante de ciência de dados na XP Educação.<br>
 
 ### Hard Skills:
-• Python (pandas, numpy, matplotlib, seaborn)
 
-• Pyspark
+• Power BI
 
 • SQL (PostgreSQL, SQL Server)
 
-• Excel e PowerBI
+• Python (pandas, numpy, matplotlib, seaborn)
+
+• Excel e Google Sheets
 
 • Git & Version Control
 <br>
 <br>
-Também possuo inglês avançado, com experiência de intercâmbio, latim intermediário e estou aprendendo francês.
+Também possuo **inglês avançado**, com experiência de **intercâmbio no Canadá**, latim intermediário e estou aprendendo francês.
 
 <br>
 <br>
