@@ -1,4 +1,4 @@
-# Olá! Bem-vindo(a) ao meu Portfólio!
+# Olá! Bem-vindo(a) ao meu Github!
 <br>
 
 ## Minha experiência/estudo:
@@ -7,7 +7,8 @@
 • 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** <br>
 • 🎲 Tenho experiência como **Assistente de TI, Analista de CRM Júnior** e também como **professor particular de exatas** (matemática, física e química)<br>
 <br>
-**Confira o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).**
+<h4>Quer ver logo meu Portfólio? [Clique aqui!](https://github.com/joaorezzo/portfolio)</h4>
+Confira o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).
 <br>
 
 ## Sobre mim:
