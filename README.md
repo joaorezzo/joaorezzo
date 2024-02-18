@@ -7,7 +7,9 @@
 • 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** <br>
 • 🎲 Tenho experiência como **Assistente de TI, Analista de CRM Júnior** e também como **professor particular de exatas** (matemática, física e química)<br>
 <br>
-<h4>Quer ver logo meu Portfólio? [Clique aqui!](https://github.com/joaorezzo/portfolio)</h4>
+**Quer ver logo meu Portfólio? [Clique aqui!](https://github.com/joaorezzo/portfolio)**
+<br>
+<br>
 Confira o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).
 <br>
 
