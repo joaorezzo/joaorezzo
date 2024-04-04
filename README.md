@@ -2,10 +2,10 @@
 <br>
 
 ## Minha experiência/estudo:
-• 🌐 Tenho aprendizado com **SQL, PowerBI, Python e suas bibliotecas (Pandas, Numpy), Excel e Google Sheets**<br>
 • 📚 Estou estudando **Ciência de Dados (XP Educação)**<br>
 • 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** <br>
-• 🎲 Tenho experiência como **Assistente de TI, Analista de CRM Júnior** e também como **professor particular de exatas** (matemática, física e química)<br>
+• 🎲 **Estagiário em Análise de Dados na QueroEducação.**<br>
+• 🗺️ Outras experiências: Assistente de TI, Analista de CRM Júnior e professor particular de exatas (matemática, física e química)
 <br>
 **Quer ver logo meu Portfólio? [Clique aqui!](https://github.com/joaorezzo/portfolio)**
 <br>
@@ -14,15 +14,19 @@ Confira o meu [Linkedin](www.linkedin.com/in/joão-otávio-cardoso).
 <br>
 
 ## Sobre mim:
-Olá! Meu nome é João Otávio, tenho 20 anos, sou Analista de Dados Jr. e estudante de ciência de dados na XP Educação.<br>
+Olá! Meu nome é João Otávio, tenho 21 anos, sou Analista de Dados Jr. e estudante de ciência de dados na XP Educação.<br>
 
 ### Hard Skills:
 
-• Power BI
+• Power BI, Metabase
 
 • SQL (PostgreSQL, SQL Server)
 
+• Pyspark
+
 • Python (pandas, numpy, matplotlib, seaborn)
+
+• Databricks
 
 • Excel e Google Sheets
 
