@@ -1,11 +1,12 @@
 # Olá! Bem-vindo(a) ao meu Github!
-<br>
+
 
 ## Minha experiência/estudo:
 • 📚 Estou estudando **Ciência de Dados (XP Educação)**<br>
-• 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** <br>
 • 🎲 **Estagiário em Análise de Dados na QueroEducação.**<br>
-• 🗺️ Outras experiências: Assistente de TI, Analista de CRM Júnior e professor particular de exatas (matemática, física e química)
+• 🗺️ Outras experiências: Assistente de TI, Analista de CRM Júnior e professor particular de exatas (matemática, física e química)<br>
+• 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** 
+<br>
 <br>
 **Quer ver logo meu Portfólio? [Clique aqui!](https://github.com/joaorezzo/portfolio)**
 <br>
