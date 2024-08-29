@@ -3,7 +3,7 @@
 
 ## Minha experiência/estudo:
 • 📚 Estou estudando **Ciência de Dados (XP Educação)**<br>
-• 🎲 **Estagiário em Análise de Dados na QueroEducação.**<br>
+• 🎲 **Estagiário em Análise de Dados na Cielo.**<br>
 • 🗺️ Outras experiências: Assistente de TI, Analista de CRM Júnior e professor particular de exatas (matemática, física e química)<br>
 • 📧 Quer entrar em contato comigo? **Envie um e-mail para joaorezzoengsoft@gmail.com** 
 <br>
