@@ -19,7 +19,7 @@ Olá! Meu nome é João Otávio, tenho 21 anos, sou Analista de Dados Jr. e estu
 
 ### Hard Skills:
 
-• Power BI, Metabase
+• DataViz (Power BI, Metabase)
 
 • SQL (PostgreSQL, SQL Server)
 
